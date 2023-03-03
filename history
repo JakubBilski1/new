@@ -1,0 +1,94 @@
+    1  git clone
+    2  git clone -b https://github.com/JakubBilski1/rep
+    3  git clone https://github.com/JakubBilski1/rep
+    4  git config --global email "jakub.bilski@spoko.pl"
+    5  git config --global --email "jakub.bilski@spoko.pl"
+    6  git config --global user.email "jakub.bilski@spoko.pl"
+    7  git config --global user.name "JakubBilski1"
+    8  git clone https://github.com/JakubBilski1/rep
+    9  cd rep
+   10  git init
+   11  git branch
+   12  git user
+   13  git config user.name
+   14  git config user.email
+   15  git branch zsk
+   16  git checkout zsk
+   17  git branch
+   18  touch plikzsk
+   19  ls
+   20  git checkout main
+   21  ld
+   22  ls
+   23  git branch test
+   24  git branch
+   25  git status
+   26  git add .
+   27  git branch test
+   28  git checkout test
+   29  git commit -m "dodanie pliku plikzsk na branchu zsk"
+   30  git push origin test
+   31  git push origin zsk
+   32  git checkout -b wakacje
+   33  git push origin wakacje
+   34  git branch
+   35  git checkout zsk
+   36  git merge test
+   37  git branch
+   38  ls
+   39  git push origin zsk
+   40  git checkout test
+   41  git branch --delete test
+   42  git checkout zsk
+   43  git branch --delete test
+   44  git status
+   45  git push
+   46  git push origin test
+   47  git push origin -d test
+   48  touch nowyplikzsk
+   49  git add .
+   50  git status
+   51  git commit
+   52  git branch -d wakacje
+   53  git push git push origin all
+   54  git push origin -all
+   55  git push origin --all
+   56  mkdir superowygicior
+   57  cd superowygicior
+   58  git init
+   59  git clone https://github.com/AKopydlowski/collab-repo
+   60  cd collab-repo
+   61  ls
+   62  git status
+   63  git status
+   64  cd ~/
+   65  cd Desktop
+   66  clone https://github.com/AKopydlowski/collab-repo
+   67  git clone https://github.com/AKopydlowski/collab-repo
+   68  cd collab-repo
+   69  git status
+   70  cd ~/Desktop
+   71  git clone https://github.com/AKopydlowski/collab-repo
+   72  cd collab=repo
+   73  cd collab-repo
+   74  git statuss
+   75  git status
+   76  ls
+   77  git config user.name
+   78  git config user.email
+   79  touch file3
+   80  git add .
+   81  git commit -m "dodanie pliku 3"
+   82  git push origin main
+   83  git pull origin main
+   84  git config user.name "fesf"
+   85  cd collab repo
+   86  cd collab-repo
+   87  git config user.name
+   88  git config user.name "ff"
+   89  git config user.email "dwefrw@sd.pl"
+   90  git config user.name
+   91  git clone https://github.com/JakubBilski1/new
+   92  cd new
+   93  git history
+   94  history>history
